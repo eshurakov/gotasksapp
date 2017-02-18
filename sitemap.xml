@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://gotasksapp.com/404.html</loc>
+        <lastmod>2012-06-02T17:21:46+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gotasksapp.com/blog/archives/</loc>
+        <lastmod>2013-11-12T22:26:22+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gotasksapp.com/how-to-use/</loc>
+        <lastmod>2013-11-12T22:54:53+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gotasksapp.com/</loc>
+        <lastmod>2013-11-13T21:56:24+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gotasksapp.com/robots.txt</loc>
+        <lastmod>2013-11-12T22:26:22+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gotasksapp.com/support/</loc>
+        <lastmod>2013-11-12T22:54:30+01:00</lastmod>
+    </url>
+</urlset>
